@@ -1,0 +1,6 @@
+/codes/news/*
+/code/news_onto/*
+.env
+
+!/codes/news/.gitkeep
+!/code/news_onto/.gitkeep
