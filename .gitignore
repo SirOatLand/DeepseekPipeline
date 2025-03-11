@@ -1,5 +1,5 @@
 /codes/news/*
-/code/news_onto/*
+/codes/news_onto/*
 .env
 
 !/codes/news/.gitkeep
