@@ -1,6 +1,8 @@
 /codes/news/*
 /codes/news_onto/*
+/codes/uni_onto/*
 .env
 
 !/codes/news/.gitkeep
 !/code/news_onto/.gitkeep
+!/code/uni_onto/.gitkeep
