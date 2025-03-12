@@ -4,5 +4,5 @@
 .env
 
 !/codes/news/.gitkeep
-!/code/news_onto/.gitkeep
-!/code/uni_onto/.gitkeep
+!/codes/news_onto/.gitkeep
+!/codes/uni_onto/.gitkeep
