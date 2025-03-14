@@ -27,6 +27,7 @@ h11==0.14.0
 httpcore==1.0.2
 httpx==0.28.1
 idna==3.7
+import-ipynb==0.2
 ipykernel==6.29.5
 ipynb==0.5.1
 ipython==8.32.0
