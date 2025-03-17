@@ -1,0 +1,3 @@
+[submodule "UnifiedOntology-Pipeline"]
+	path = UnifiedOntology-Pipeline
+	url = https://github.com/SirOatLand/UnifiedOntology-Pipeline.git
