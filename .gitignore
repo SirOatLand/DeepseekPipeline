@@ -2,9 +2,17 @@
 /codes/news_onto/*
 /codes/uni_onto/*
 /codes/filtered_onto/*
+/1_ontologiesInput/*
+/2_connectOutput/*
+/3_mergeOutput/*
+/4_refineOutput/*
 .env
 
 !/codes/news/.gitkeep
 !/codes/news_onto/.gitkeep
 !/codes/uni_onto/.gitkeep
 !/codes/filtered_onto/.gitkeep
+!/1_ontologiesInput/.gitkeep
+!/2_connectOutput/.gitkeep
+!/3_mergeOutput/.gitkeep
+!/4_refineOutput/.gitkeep
