@@ -6,6 +6,7 @@
 /2_connectOutput/*
 /3_mergeOutput/*
 /4_refineOutput/*
+/5_filteredOnto/*
 .env
 
 !/codes/news/.gitkeep
@@ -16,3 +17,4 @@
 !/2_connectOutput/.gitkeep
 !/3_mergeOutput/.gitkeep
 !/4_refineOutput/.gitkeep
+!/5_filteredOnto/.gitkeep
