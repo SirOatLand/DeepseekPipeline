@@ -1,0 +1,9 @@
+/1_ontologiesInputBL/*
+/2_connectOutputBL/*
+/3_mergeOutputBL/*
+/4_refineOutputBL/*
+
+!/1_ontologiesInputBL/.gitkeep
+!/2_connectOutputBL/.gitkeep
+!/3_mergeOutputBL/.gitkeep
+!/4_refineOutputBL/.gitkeep
