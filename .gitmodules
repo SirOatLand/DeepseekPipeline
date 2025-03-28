@@ -1,3 +1,6 @@
 [submodule "UnifiedOntologyPipeline"]
 	path = UnifiedOntologyPipeline
 	url = https://github.com/SirOatLand/UnifiedOntologyPipeline.git
+[submodule "OWLAPI_Serialize"]
+	path = OWLAPI_Serialize
+	url = https://github.com/SirOatLand/OWLAPI_Serialize
