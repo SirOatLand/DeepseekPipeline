@@ -6,6 +6,7 @@
 /1_ontologiesInput/*
 /2_connectOutput/*
 /3_mergeOutput/*
+/3.5_OWLAPIOutput/*
 /4_refineOutput/*
 /5_filteredOnto/*
 .env
@@ -18,5 +19,6 @@
 !/1_ontologiesInput/.gitkeep
 !/2_connectOutput/.gitkeep
 !/3_mergeOutput/.gitkeep
+!/3.5_OWLAPIOutput/.gitkeep
 !/4_refineOutput/.gitkeep
 !/5_filteredOnto/.gitkeep
