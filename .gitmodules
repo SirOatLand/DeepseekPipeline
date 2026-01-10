@@ -4,3 +4,6 @@
 [submodule "OWLAPI_Serialize"]
 	path = OWLAPI_Serialize
 	url = https://github.com/SirOatLand/OWLAPI_Serialize
+[submodule "hierarchyClassification"]
+	path = hierarchyClassification
+	url = https://github.com/SirOatLand/hierarchyClassification.git
